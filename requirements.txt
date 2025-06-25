@@ -1,0 +1,4 @@
+rdkit-pypi
+pandas
+scikit-learn
+matplotlib
