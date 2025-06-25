@@ -34,3 +34,6 @@ This is a bioinformatics project built using *Python, **RDKit, and **scikit-lear
 DrugName,SMILES
 Aspirin,CC(=O)OC1=CC=CC=C1C(=O)O
 Caffeine,CN1C=NC2=C1C(=O)N(C(=O)N2C)C
+
+## 📎 Run This Project on Colab
+[![Open in Colab](https://colab.research.google.com/drive/1HRq77USSxv_5lwIQDLCPukkAFlXQ4HOv?usp=sharing)
